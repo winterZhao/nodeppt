@@ -1,6 +1,6 @@
 ## 使用
 
-1. 全局安装nodeppt `node instal -g nodeppt`;
+1. 全局安装nodeppt `npm instal -g nodeppt`;
 
 2. 克隆本项目;
 
